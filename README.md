@@ -1,1 +1,1 @@
-Deployed Link : stonepaperscissorsbyyash.netlify.app
+Deployed Link : https://stonepaperscissorsbyyash.netlify.app
